@@ -1,0 +1,47 @@
+form{
+    display: block;
+    margin-top: -2rem !important;
+}
+
+form .form_1{
+    display: block;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+form input{
+    display: block;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 8px;
+    margin-top: 4px;
+}
+
+form button{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+form button{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+form button:hover{
+    background-color: rgb(74, 67, 67);
+    color: black;
+}
+
+.add-2{
+    margin-top: 3rem;
+}
+
+.form_2{
+    margin-top: 1rem;
+}
